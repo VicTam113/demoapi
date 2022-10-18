@@ -1,8 +1,8 @@
 [
-        {"id" : 1,"name" : "蘋果", "price" : 5, "image" : "apple.jpg","description":"新鮮蘋果50克，一日一蘋果，醫生遠離我"},
-        {"id" : 2,"name" : "橙", "price" : 3, "image" : "orange.jpg","description":"新鮮橙50克，又甜又好吃"},
-        {"id" : 3,"name" : "芒果", "price" : 4, "image" : "mango.jpg","description":"新鮮芒500克，宜做甜品"},
-        {"id" : 4,"name" : "西瓜", "price" : 20,"image" : "watermelon.jpg","description":"新鮮西瓜2公斤，夏季必備"},
-        {"id" : 5,"name" : "藍梅", "price" : 10,"image" : "blueberry.jpg","description":"新鮮藍梅50克，補眼之寶"},
-        {"id" : 6,"name" : "白蘿蔔", "price" : 5,"image" : "white-carrot.jpg","description":"新鮮白蘿蔔1公斤，宜煲湯"}
+        {"id" : 1,"name" : "Steak Sandwich 牛排三明治", "price" : 50, "image" : "Everdines-Pizza_Party_grilled_Cheese-768x464.jpg","description":"令人滿意、豐富和美味的三明治。"},
+        {"id" : 2,"name" : "Grilled Cheese 烤奶酪三明治", "price" : 40, "image" : "Croque-MadameCREDIT_Dovecote-768x512.jpg","description":"烤奶酪三明治"},
+        {"id" : 3,"name" : "Croque Monsieur 法式三明治", "price" : 60, "image" : "La-Casa-de-Pedros-El-CubanoCREDITHeath-Robbins-768x526.jpg","description":"法式三明治"},
+        {"id" : 4,"name" : "BLT 培根生菜番茄三明治", "price" : 80,"image" : "BNC_Crispy-Pork-Belly-TortaCredit_DavidJacobson-768x540.jpg","description":"培根生菜番茄三明治"},
+        {"id" : 5,"name" : "Lobster, Shrimp & Clam Roll 龍蝦、蝦和蛤蜊卷", "price" : 70,"image" : "State-Street-Provisions_Lobster-Roll_credit-Nina-Gallant-768x528.jpg","description":"龍蝦、蝦和蛤蜊卷"},
+        {"id" : 6,"name" : "Reuben 魯本三明治", "price" : 50,"image" : "tempeh-Reuben-768x512.jpg","description":"魯本三明治"}
     ]
