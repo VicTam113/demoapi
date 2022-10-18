@@ -3,6 +3,6 @@
         {"id" : 2,"name" : "Grilled Cheese 烤奶酪三明治", "price" : 40, "image" : "Croque-MadameCREDIT_Dovecote.jpg","description":"烤奶酪三明治"},
         {"id" : 3,"name" : "Croque Monsieur 法式三明治", "price" : 60, "image" : "La-Casa-de-Pedros-El-CubanoCREDITHeath-Robbins.jpg","description":"法式三明治"},
         {"id" : 4,"name" : "BLT 培根生菜番茄三明治", "price" : 80,"image" : "BNC_Crispy-Pork-Belly-TortaCredit_DavidJacobson.jpg","description":"培根生菜番茄三明治"},
-        {"id" : 5,"name" : "Lobster, Shrimp & Clam Roll 龍蝦、蝦和蛤蜊卷", "price" : 70,"image" : "State-Street-Provisions_Lobster-Roll_credit-Nina-Gallant.jpg","description":"龍蝦、蝦和蛤蜊卷"},
+        {"id" : 5,"name" : "Lobster Clam Roll 龍蝦蛤蜊卷", "price" : 70,"image" : "State-Street-Provisions_Lobster-Roll_credit-Nina-Gallant.jpg","description":"龍蝦、蝦和蛤蜊卷"},
         {"id" : 6,"name" : "Reuben 魯本三明治", "price" : 50,"image" : "tempeh-Reuben.jpg","description":"魯本三明治"}
     ]
